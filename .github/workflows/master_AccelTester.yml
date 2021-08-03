@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'AccelTester'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1c02dd302e274362b6160e2ee479c887 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9ae0d341b0cb42ef92ad1c67bf7fe186 }}
         package: .
